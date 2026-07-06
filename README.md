@@ -15,6 +15,7 @@
 [준비물]
 
 1.한글패치
+<a href='https://github.com/z3oo3z/QGSC-KPatch/releases/download/QGSC/QGSC_v260705.7z'>다운로드</a><br>
 
 2. 원본.ISO
 
@@ -39,7 +40,7 @@
  
 
 [에뮬 메뉴 텍스처]  
-
+<a href='https://github.com/z3oo3z/QGSC-KPatch/releases/download/QGSC/QGSC_ULJS00377.7z'>UI텍스처다운로드</a><br>
 압축을 풀어 png파일을 아래의 경로에 복사합니다.  
 
 폴더가 없으면 만드세요  
