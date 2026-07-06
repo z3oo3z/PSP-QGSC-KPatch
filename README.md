@@ -4,6 +4,33 @@
 <img width="519" height="305" alt="image" src="https://github.com/user-attachments/assets/1e71790c-9c9a-4613-9f36-21e3d9bf4da4" />
 <img width="527" height="302" alt="image" src="https://github.com/user-attachments/assets/45abeffc-b28d-4346-9966-a80199e37f52" />
 
+본 패치는 비영리 목적으로 제작되었습니다  
+
+본 패치의 상업적 이용은 금지합니다
+
+
+본패치를  변조,개조,재배포 하지 마십시오  
+
+본 패치를 공유하거나 롬에 입혀 공유하지 마십시오
+
+저작권으로 인한 법적인 책임은 패치를 사용한 사용자에게  
+
+있음을 알려드립니다
+
+문제 발생시 배포가 중단될 수 있고 추후  
+
+작업 또한 중단될 수 있습니다
+
+ 
+
+게임명 : 퀸즈 게이트 스파이럴 카오스
+
+게임ID : ULJS00377
+
+
+[제작에 사용된 PC 에뮬 버전]
+
+PPSSPP 1.17.1
 
 [한글패치]
 
