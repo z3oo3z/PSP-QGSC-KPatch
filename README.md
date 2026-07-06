@@ -73,3 +73,6 @@ ppsspp1.17.1\memstick\PSP\TEXTURES\ ULJS00377
 
 
 에뮬의 텍스처 교체를 체크하고 실행해야 적용됩니다.  
+
+<img width="1280" height="166" alt="image" src="https://github.com/user-attachments/assets/2dfe6591-501f-448b-8f41-c76f04a3579f" />
+
